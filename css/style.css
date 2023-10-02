@@ -411,6 +411,11 @@ header .nav-bar{
     .bg-slider-thumbs{
         bottom: 3em;
     }
+
+    .section img{
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 /*MEDIA QUERIES (@785px) */
